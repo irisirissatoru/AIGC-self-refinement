@@ -1,0 +1,7 @@
+streamlit
+diffusers
+transformers
+torch
+openai
+requests
+Pillow
